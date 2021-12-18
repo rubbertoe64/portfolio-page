@@ -1,5 +1,5 @@
 # portfolio-page
-Displays my first, from scratch, portfolio page! Completed (hopefullY) all the user stories and met the acceptance crieria.
+Displays my first, from scratch, portfolio page! Completed (hopefully) all the user stories and met the acceptance crieria.
 
 #Acceptance Criteria
 
