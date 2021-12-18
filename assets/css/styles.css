@@ -96,7 +96,7 @@ footer {
 .css-card {
     display: flex;
     flex: 1 1 345px;
-    /* flex-basis: 30%; */
+    flex-basis: 30%;
     flex-direction: column;
     position: relative;
     border: solid 2px lightgrey;
@@ -151,10 +151,29 @@ footer {
     .profile-pic {
         width: 50px;
     }
+    .css-card {
+        flex-basis: 50%;
+    }
 }
 
 @media screen and (max-width: 640px) {
     .header{
         padding: 2px;
+    }
+    .css-card {
+        flex-basis: 50%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    
+    .header{
+        padding: 1px;
+    }
+    .list-group {
+        font-size: 9px;
+    }
+    .css-card {
+        flex-basis: 50%;
     }
 }
