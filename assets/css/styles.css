@@ -184,10 +184,29 @@ footer {
     .profile-pic {
         width: 50px;
     }
+    .css-card {
+        flex-basis: 50%;
+    }
 }
 
 @media screen and (max-width: 640px) {
     .header{
         padding: 2px;
+    }
+    .css-card {
+        flex-basis: 50%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    
+    .header{
+        padding: 1px;
+    }
+    .list-group {
+        font-size: 9px;
+    }
+    .css-card {
+        flex-basis: 50%;
     }
 }
