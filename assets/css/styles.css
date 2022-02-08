@@ -151,6 +151,20 @@ footer {
     
 }
 
+#third-project{
+    background-image: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,0) 100%), url("https://ak.picdn.net/shutterstock/videos/9916160/thumb/1.jpg");
+
+    font-size: 20px;
+
+}
+
+#fourth-project{
+    background-image: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,0,0,0) 100%), url("https://media.istockphoto.com/photos/calendar-page-flipping-sheet-close-up-blur-background-business-picture-id1241235622?k=20&m=1241235622&s=170667a&w=0&h=32DJURYfdQ-kIggNS_YSLNibc0aOWU_XsBE8caHpC5s=");
+
+    font-size: 20px;
+
+}
+
 
 
 .css-card > .card-header {
